@@ -1,0 +1,27 @@
+body {
+  background-color: #05486e;
+}
+
+h1 {
+  margin: 0px 20px;
+  color: rgb(194, 194, 194);
+  border-bottom: 2px solid #075685;
+}
+
+.container {
+  width: 90%;
+  margin: 5%;
+}
+
+.slick-slide {
+  height: 500px;
+  border: 20px solid #05486e;
+  box-sizing: border-box;
+}
+
+.slick-slide img {
+  object-fit: cover;
+  height: 500px;
+  width: 100%;
+  box-sizing: border-box;
+}
